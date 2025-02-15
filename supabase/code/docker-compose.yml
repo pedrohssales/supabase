@@ -10,7 +10,7 @@ name: supabase
 services:
 
   studio:
-    image: supabase/studio:20250113-83c9420
+    image: supabase/studio:20240729-ce42139
     restart: unless-stopped
     healthcheck:
       test:
